@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ElQ5wsLE1NpLfBp3KTDwiNzWwNm17DUKhZm5HyRHAcw=",
+  "Source": "Dapper-Service",
+  "BasePath": "_content/Dapper-Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

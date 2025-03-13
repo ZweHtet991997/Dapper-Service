@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyProjects\\MyRepo\\GitRepoUpdate2025\\Dapper-Service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38CEFAF8-2F2A-4BD7-90E4-FBBFE18264BB}|Dapper-Service\\Dapper-Service.csproj|c:\\myprojects\\myrepo\\gitrepoupdate2025\\dapper-service\\dapper-service\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CEFAF8-2F2A-4BD7-90E4-FBBFE18264BB}|Dapper-Service\\Dapper-Service.csproj|solutionrelative:dapper-service\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CEFAF8-2F2A-4BD7-90E4-FBBFE18264BB}|Dapper-Service\\Dapper-Service.csproj|c:\\myprojects\\myrepo\\gitrepoupdate2025\\dapper-service\\dapper-service\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CEFAF8-2F2A-4BD7-90E4-FBBFE18264BB}|Dapper-Service\\Dapper-Service.csproj|solutionrelative:dapper-service\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CEFAF8-2F2A-4BD7-90E4-FBBFE18264BB}|Dapper-Service\\Dapper-Service.csproj|c:\\myprojects\\myrepo\\gitrepoupdate2025\\dapper-service\\dapper-service\\sqlqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CEFAF8-2F2A-4BD7-90E4-FBBFE18264BB}|Dapper-Service\\Dapper-Service.csproj|solutionrelative:dapper-service\\sqlqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CEFAF8-2F2A-4BD7-90E4-FBBFE18264BB}|Dapper-Service\\Dapper-Service.csproj|c:\\myprojects\\myrepo\\gitrepoupdate2025\\dapper-service\\dapper-service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38CEFAF8-2F2A-4BD7-90E4-FBBFE18264BB}|Dapper-Service\\Dapper-Service.csproj|solutionrelative:dapper-service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CEFAF8-2F2A-4BD7-90E4-FBBFE18264BB}|Dapper-Service\\Dapper-Service.csproj|c:\\myprojects\\myrepo\\gitrepoupdate2025\\dapper-service\\dapper-service\\services\\dbconnectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CEFAF8-2F2A-4BD7-90E4-FBBFE18264BB}|Dapper-Service\\Dapper-Service.csproj|solutionrelative:dapper-service\\services\\dbconnectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CEFAF8-2F2A-4BD7-90E4-FBBFE18264BB}|Dapper-Service\\Dapper-Service.csproj|c:\\myprojects\\myrepo\\gitrepoupdate2025\\dapper-service\\dapper-service\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CEFAF8-2F2A-4BD7-90E4-FBBFE18264BB}|Dapper-Service\\Dapper-Service.csproj|solutionrelative:dapper-service\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CEFAF8-2F2A-4BD7-90E4-FBBFE18264BB}|Dapper-Service\\Dapper-Service.csproj|c:\\myprojects\\myrepo\\gitrepoupdate2025\\dapper-service\\dapper-service\\scripts\\tbl_employee.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{38CEFAF8-2F2A-4BD7-90E4-FBBFE18264BB}|Dapper-Service\\Dapper-Service.csproj|solutionrelative:dapper-service\\scripts\\tbl_employee.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CEFAF8-2F2A-4BD7-90E4-FBBFE18264BB}|Dapper-Service\\Dapper-Service.csproj|c:\\myprojects\\myrepo\\gitrepoupdate2025\\dapper-service\\dapper-service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CEFAF8-2F2A-4BD7-90E4-FBBFE18264BB}|Dapper-Service\\Dapper-Service.csproj|solutionrelative:dapper-service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\MyProjects\\MyRepo\\GitRepoUpdate2025\\Dapper-Service\\Dapper-Service\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Dapper-Service\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\MyProjects\\MyRepo\\GitRepoUpdate2025\\Dapper-Service\\Dapper-Service\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Dapper-Service\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAuwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:15:37.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tbl_Employee.sql",
+              "DocumentMoniker": "C:\\MyProjects\\MyRepo\\GitRepoUpdate2025\\Dapper-Service\\Dapper-Service\\Scripts\\Tbl_Employee.sql",
+              "RelativeDocumentMoniker": "Dapper-Service\\Scripts\\Tbl_Employee.sql",
+              "ToolTip": "C:\\MyProjects\\MyRepo\\GitRepoUpdate2025\\Dapper-Service\\Dapper-Service\\Scripts\\Tbl_Employee.sql",
+              "RelativeToolTip": "Dapper-Service\\Scripts\\Tbl_Employee.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-06T08:19:10.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyProjects\\MyRepo\\GitRepoUpdate2025\\Dapper-Service\\Dapper-Service\\Program.cs",
+              "RelativeDocumentMoniker": "Dapper-Service\\Program.cs",
+              "ToolTip": "C:\\MyProjects\\MyRepo\\GitRepoUpdate2025\\Dapper-Service\\Dapper-Service\\Program.cs",
+              "RelativeToolTip": "Dapper-Service\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:00:24.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "C:\\MyProjects\\MyRepo\\GitRepoUpdate2025\\Dapper-Service\\Dapper-Service\\Models\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "Dapper-Service\\Models\\EmployeeModel.cs",
+              "ToolTip": "C:\\MyProjects\\MyRepo\\GitRepoUpdate2025\\Dapper-Service\\Dapper-Service\\Models\\EmployeeModel.cs",
+              "RelativeToolTip": "Dapper-Service\\Models\\EmployeeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:00:13.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\MyProjects\\MyRepo\\GitRepoUpdate2025\\Dapper-Service\\Dapper-Service\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Dapper-Service\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\MyProjects\\MyRepo\\GitRepoUpdate2025\\Dapper-Service\\Dapper-Service\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Dapper-Service\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAuwFQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:43:37.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbConnectionService.cs",
+              "DocumentMoniker": "C:\\MyProjects\\MyRepo\\GitRepoUpdate2025\\Dapper-Service\\Dapper-Service\\Services\\DbConnectionService.cs",
+              "RelativeDocumentMoniker": "Dapper-Service\\Services\\DbConnectionService.cs",
+              "ToolTip": "C:\\MyProjects\\MyRepo\\GitRepoUpdate2025\\Dapper-Service\\Dapper-Service\\Services\\DbConnectionService.cs",
+              "RelativeToolTip": "Dapper-Service\\Services\\DbConnectionService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:43:21.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\MyProjects\\MyRepo\\GitRepoUpdate2025\\Dapper-Service\\Dapper-Service\\appsettings.json",
+              "RelativeDocumentMoniker": "Dapper-Service\\appsettings.json",
+              "ToolTip": "C:\\MyProjects\\MyRepo\\GitRepoUpdate2025\\Dapper-Service\\Dapper-Service\\appsettings.json",
+              "RelativeToolTip": "Dapper-Service\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-06T11:55:09.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SqlQueries.cs",
+              "DocumentMoniker": "C:\\MyProjects\\MyRepo\\GitRepoUpdate2025\\Dapper-Service\\Dapper-Service\\SqlQueries.cs",
+              "RelativeDocumentMoniker": "Dapper-Service\\SqlQueries.cs",
+              "ToolTip": "C:\\MyProjects\\MyRepo\\GitRepoUpdate2025\\Dapper-Service\\Dapper-Service\\SqlQueries.cs",
+              "RelativeToolTip": "Dapper-Service\\SqlQueries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:46:36.912Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
