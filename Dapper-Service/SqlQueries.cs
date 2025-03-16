@@ -4,6 +4,8 @@
     {
         public static string GetAllEmployees = "SELECT * FROM Tbl_Employee";
 
+        public static string GetEmployeeByCode = "SELECT * FROM Tbl_Employee WHERE EmployeeCode = @EmployeeCode";
+
         public static string CreateEmployee = "INSERT INTO Tbl_Employee (EmployeeCode,FullName,Email,PhoneNumber,OfficeLocation,Department,CreatedDate) " +
                 $"VALUES (@EmployeeCode,@FullName,@Email,@PhoneNumber,@OfficeLocation,@Department,@CreatedDate)";
 

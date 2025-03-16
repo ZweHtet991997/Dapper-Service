@@ -21,6 +21,22 @@ namespace Dapper_Service.Controllers
             return Ok(employees);
         }
 
+        [HttpGet("/getbycode")]
+        public async Task<IActionResult> EmployeeModel(string employeeCode)
+        {
+            var employee = await _employeeService.GetEmployeeByCode(employeeCode);
+            if (employee is null) return NotFound("Employee not found.");
+            return Ok(employee);
+        }
+
+        [HttpPost("/search")]
+        public async Task<IActionResult> SearchEmployee([FromBody] EmployeeSearchModel model)
+        {
+            var employee = await _employeeService.SearchEmployee(model);
+            if (employee is null) return NotFound("Employee not found.");
+            return Ok(employee);
+        }
+
         [HttpPost]
         public async Task<ActionResult> CreateEmployee([FromBody] EmployeeModel model)
         {

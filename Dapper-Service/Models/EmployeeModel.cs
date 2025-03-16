@@ -12,4 +12,11 @@
         public DateTime CreatedDate { get; set; }
         public DateTime UpdatedDate { get; set; }
     }
+
+    public class EmployeeSearchModel
+    {
+        public string FullName { get; set; }
+        public string Department { get; set; }
+        public string Email { get; set; }
+    }
 }
